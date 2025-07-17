@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly
+#import plotly
 
 df = pd.read_csv('Obesity Classification.csv')
 st.set_page_config(page_title='데이터분석')
