@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly
+#import plotly
 
 st.set_page_config(page_title = 'home')
 st.title("비만 분류 데이터 분석 방법")
