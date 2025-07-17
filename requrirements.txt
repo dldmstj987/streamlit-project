@@ -5,7 +5,7 @@ streamlit
 xgboost
 scikit-learn
 streamlit
-plotly
+plotly>=5.0.0
 xmltodict
 numpy
 selenium
